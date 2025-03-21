@@ -4,4 +4,4 @@
 
 ### Profit Calculator
 
-### Bank Simple SRUD
+### Bank Simple CRUD
