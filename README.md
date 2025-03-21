@@ -1,4 +1,4 @@
-# go_practice
+# GO Practice
 
 ### Investment Calculator
 
