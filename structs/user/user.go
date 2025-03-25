@@ -14,9 +14,9 @@ type User struct {
 }
 
 type Admin struct {
-email string
-password string	
-User
+	email string 
+	password string	
+	User
 }
 
 func New(firstName string, lastName string, birthdate string) (*User, error) {
